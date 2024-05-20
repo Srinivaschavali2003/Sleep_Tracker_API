@@ -182,6 +182,3 @@ To run the tests for the API endpoints:
 
 The tests will validate the functionality of the API endpoints.
 
-## License
-
-This project is licensed under the MIT License.
